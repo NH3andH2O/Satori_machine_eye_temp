@@ -3,7 +3,7 @@
 R饼锐度不够
 
 ## 嘉立创开源网址
-https://oshwhub.com/flanker-e/esp32s3-open-source-of-jue
+https://oshwhub.com/flanker-e/jue-zhi-tong-esp32
 
 ## 注意事项
 板子天线需要自己单独购买
